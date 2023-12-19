@@ -1,0 +1,21 @@
+.link {
+    text-decoration: none;
+    color: darkblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.isActive {
+    color: rgb(63, 2, 2);
+    border-bottom: 2px solid rgb(63, 2, 2);
+    padding: 7px;
+}
+
+.light {
+    background-color: white;
+    color: black;
+}
+
+.dark {
+    background-color: rgb(1, 1, 78);
+    color: white;
+}
